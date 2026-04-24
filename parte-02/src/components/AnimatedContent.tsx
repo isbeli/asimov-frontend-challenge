@@ -36,13 +36,15 @@ export default function AnimatedContent({
       ref={ref}
       initial={{ [axis]: offset, opacity: 0 }}
       animate={controls}
-      variants={{
-        visible: {
-          [axis]: 0,
-          opacity: 1,
-          transition: { duration, ease: "easeOut", delay },
-        },
-      }}
+      variants={
+        {
+          visible: {
+            [axis]: 0,
+            opacity: 1,
+            transition: { duration, ease: "easeOut", delay },
+          },
+        } as any
+      }
       className={className}
     >
       {children}

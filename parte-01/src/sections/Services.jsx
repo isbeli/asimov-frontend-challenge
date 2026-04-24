@@ -66,7 +66,7 @@ const ServiceCard = ({
   arrow,
 }) => (
   <div
-    className={`${bg} border-2 border-b-4 border-black rounded-3xl p-10 flex flex-col justify-between min-h-55 relative overflow-hidden
+    className={`${bg} border-2 border-b-6 border-black rounded-3xl p-8 flex flex-col justify-between min-h-55 relative overflow-hidden
   transition-all duration-300 ease-in-out hover:scale-105 hover:shadow-xl cursor-pointer`}
   >
     <div className="flex justify-between items-start gap-4">

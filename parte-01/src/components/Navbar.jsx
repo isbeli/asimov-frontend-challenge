@@ -31,7 +31,7 @@ export default function Navbar() {
               Services
             </a>
             <a
-              href=""
+              href="#caseStudies"
               className="hover:underline underline-offset-4 transition-all"
             >
               Use Cases

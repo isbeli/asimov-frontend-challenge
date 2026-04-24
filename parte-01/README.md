@@ -7,7 +7,9 @@
 ## 🚀 Tecnologias
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38BDF8?style=flat-square&logo=tailwindcss)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-v4-38BDF8
+
+?style=flat-square&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-8-646CFF?style=flat-square&logo=vite)
 
 - **React 19** — componentização e reatividade
@@ -81,8 +83,8 @@ npm run build
 
 ## 🎨 Design
 
-Design original disponível no [Figma Community](https://www.figma.com/community).
+Design original disponível no [Figma Community](https://www.figma.com/design/QGCJc8PeG7Gk0rPpx8028f/Positivus-Landing-Page-Design--Community-?node-id=25-145&p=f&t=G1mb1KNXgzXSFEoU-0).
 
 ---
 
-<p align="center">Feito com 💚 por <strong>Isbeli_DEV</strong></p>
+Feito com 💚 por **Isbeli_DEV**

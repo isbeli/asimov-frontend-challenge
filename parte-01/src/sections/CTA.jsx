@@ -32,7 +32,7 @@ export default function CTA() {
         </div>
 
         {/* IMAGEM */}
-        <div className="shrink-0 absolute right-10 pa-5  bottom- flex items-center">
+        <div className="shrink-0 absolute right-10 pa-5  bottom- flex items-center hidden md:flex">
           <img
             src="/images/Case-Studies/lets-make-things-happen.svg"
             alt="lets make things happen"

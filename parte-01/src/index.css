@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Space Grotesk", sans-serif;
+}
+
+/* garante que button herda a fonte */
+button {
+  font-family:
+    Space Grotesk,
+    sans-serif;
+}
